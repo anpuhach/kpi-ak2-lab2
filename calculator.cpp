@@ -14,3 +14,10 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+
+//KPI
+//Anton Puhach
+//IO-03
+//lab2
+//22.09.2022
+
